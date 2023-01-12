@@ -1,1 +1,2 @@
-package.adapter.endpoint.url:http://sales-dev-alb-adapter.sales.aws.tuicloud.net/packagesearch/search
+applicationconfiguration:
+  package.adapter.endpoint.url:http://sales-dev-alb-adapter.sales.aws.tuicloud.net/packagesearch/search
